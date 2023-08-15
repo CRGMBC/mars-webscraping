@@ -29,3 +29,4 @@ A second bar graph was created of the same data but sorted by the average temper
 
 The average atmospheric pressure by Martian month on Mars was calculated by using the group.by function on the month field and returning the mean (average) of the pressure field for each month.  This was plotted in a bar graph, sorted by the average pressure value for the easy identification of the lowest & highest month atmospheric pressure average.
 
+This final dataframe was exported to a csv file, called mars_table.csv.
